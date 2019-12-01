@@ -1,0 +1,5 @@
+(define (sum-of-sqr-of-larger-two a b c)
+  (- (+ (square a)
+        (square b)
+        (square c))
+      (square (min a b c))))
