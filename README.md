@@ -1,3 +1,3 @@
 # sicp-solutions
-Tested solutions to Structure and Interpretation of Computer Programs, 2nd Edition.
+Tested solutions to exercises in Structure and Interpretation of Computer Programs, 2nd Edition.
 
